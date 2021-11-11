@@ -1,7 +1,7 @@
 ### Hello, i am Pedro. 🧑‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-flor-da-silva-68a04a16b/)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=whitee)](https://www.linkedin.com/in/pedro-henrique-flor-da-silva-68a04a16b/)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=whitee)](https://gitlab.com/PedroHen20/)
 [![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-flor-da-silva-68a04a16b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-flor-da-silva-68a04a16b/)
 
